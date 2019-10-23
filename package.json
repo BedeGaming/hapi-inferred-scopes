@@ -1,5 +1,5 @@
 {
-  "name": "hapi-inferred-scopes",
+  "name": "@bedegaming/hapi-inferred-scopes",
   "version": "2.0.0",
   "description": "infer route access from grouped scopes",
   "main": "lib/index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielglennross/hapi-inferred-scopes.git"
+    "url": "git+https://github.com/BedeGaming/hapi-inferred-scopes.git"
   },
   "keywords": [
     "hapi-inferred-scopes"
   ],
   "author": {
     "name": "Daniel Ross",
-    "email": "danielglennross@gmail.com"
+    "email": "daniel.ross@bedegaming.com"
   },
   "contributors": [
     {
       "name": "Matthew Bates",
-      "email": "matthew.bates.117@gmail.com"
+      "email": "matthew.bates@bedegaming.com"
     }
   ],
   "license": "ISC",
@@ -41,9 +41,9 @@
     "eslint-plugin-react-hooks": "^1.7.0"
   },
   "bugs": {
-    "url": "https://github.com/danielglennross/hapi-inferred-scopes/issues"
+    "url": "https://github.com/BedeGaming/hapi-inferred-scopes/issues"
   },
-  "homepage": "https://github.com/danielglennross/hapi-inferred-scopes#readme",
+  "homepage": "https://github.com/BedeGaming/hapi-inferred-scopes",
   "dependencies": {
     "@hapi/boom": "^8.0.0",
     "@hapi/joi": "^16.0.0",
