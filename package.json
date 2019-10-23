@@ -1,6 +1,6 @@
 {
   "name": "@bedegaming/hapi-inferred-scopes",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "infer route access from grouped scopes",
   "main": "lib/index.js",
   "scripts": {
